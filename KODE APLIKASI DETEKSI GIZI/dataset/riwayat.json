@@ -1,0 +1,26 @@
+[
+    {
+        "tanggal": "19-12-2025 18:54",
+        "makanan": "nasi_putih",
+        "gizi": {
+            "air": 56.7,
+            "energi": 180,
+            "protein": 3,
+            "lemak": 0.3,
+            "karbohidrat": 39.8,
+            "serat": 0.2,
+            "Kalsium": 25,
+            "Fosfor": 27,
+            "Besi": 0.4,
+            "Natrium": 1,
+            "Kalium": 38,
+            "Tembaga": 0.1
+        },
+        "rekomendasi": [
+            "nasi_merah",
+            "nasi_jagung",
+            "kentang_rebus",
+            "ubi"
+        ]
+    }
+]

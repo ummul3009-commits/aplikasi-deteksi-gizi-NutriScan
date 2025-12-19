@@ -1,0 +1,23 @@
+{"nasi_putih":
+{"air" :56.7,"energi" : 180,"protein" : 3,"lemak" : 0.3, 
+"karbohidrat" : 39.8,"serat": 0.2, "Kalsium" : 25,"Fosfor" : 27,
+"Besi" : 0.4,"Natrium" :1,"Kalium" : 38,"Tembaga" : 0.10},
+
+"telur_goreng":
+{"air": 61.9,"energi" : 251,"protein" : 16.3,
+"lemak" : 19.4,"karbohidrat" : 1.4,"serat" : 0,
+"Kalium" : 62,"Fosfor" : 250,"Besi" : 2.5},
+
+"roti_tawar_selai":
+{"air" : 74,"energi" : 487,"protein" : 8.5,"lemak" : 1.8, 
+"karbohidrat" : 114.5,"serat": 10.1, "Kalsium" : 30,"Fosfor" : 115,
+"Besi" : 2.5,"Natrium" :560,"Kalium" : 164.1,"Tembaga" : 0.24},
+
+"rawon":
+{"air" : 86,"energi" : 50,"protein" : 5.4,"lemak" : 2.5,
+"karbohidrat" : 4.0,"Kalium" : 272,"Fosfor" : 153,"Besi" : 3.3},
+
+"mie_instan":
+{"air" :74.6,"energi" : 113,"protein" : 3,"lemak" : 3.2, 
+"karbohidrat" : 18.1,"Kalsium" : 22,"Fosfor" : 4,
+"Besi" : 1.4,"Natrium" :191,"Kalium" : 36,"Tembaga" : 0.20}}
